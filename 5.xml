@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<storyBlock name="5">
+    You go back to the main road and now look confused because all paths looks 
+    the same. The infrastructure of that place is such that every building and 
+    every particle seems same no matter from which section of the central road 
+    you see. Now you don’t even recognize the path you came from. You are 
+    annoyed at the poor design and management of the Alestrex’s - They could 
+    have given a map for easy navigation, but they had not. You are pretty much lost.
+
+    ► <next goto="4.xml">Go Right </next>
+    ► <next goto="12.xml">Go straight </next>
+    ► <next goto="3.xml">Go left </next>
+    ► <next goto="13.xml">Stay where you are </next>
+</storyBlock>

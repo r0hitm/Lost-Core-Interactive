@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<storyBlock name="4">
+    The path is descending and you are full of excitement and joy. You walk for 
+    approximately 10 minutes but then you met an dead end and there is no other 
+    way. So you realized you had chosen the wrong way. You start to go back to 
+    the main road; but suddenly an alarm goes off and several security bots are 
+    heading in your direction and their guns are pointed to your head.
+
+    ► <next goto="9.xml">Dash with full speed towards the main road </next>
+    ► <next goto="10.xml">Fight back </next>
+    ► <next goto="11.xml">Find a place to hide </next>
+</storyBlock>

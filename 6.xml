@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<storyBlock name="6">
+    You thought just leaving is not exciting so you decided to explore the 
+    shooting area. The watchman outside the building allowed you to pass 
+    through the door after seeing your pass. You are surprised that watchman 
+    allowed you to go so easily but as you entered, you realized that the 
+    watchman was just for checking the pass of visitors. Inside the building, 
+    there was a huge and hard glass wall through which only soldiers could pass 
+    as a high tech retina scan lock has been placed there. But the visitors 
+    could see the soldiers practicing and improving their shooting skills. 
+    You are astonished after seeing them and also much determined to become 
+    a soldier. You, then decided to take leave for the Security center.
+
+    ► <next goto="5.xml">Go back </next>
+</storyBlock>

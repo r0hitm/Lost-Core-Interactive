@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<storyBlock name="3">
+    You ascended further with a greater pace. After a considerable climb you 
+    can see the huge building of Alestrex security center. You approach the 
+    entrance. But the guard stops you.
+    "Hey Kid, What do you want?” asked the guard.
+    "I have passed the high school and due to rules I am supposed to meet 
+    security minister." You showed him the card, and he told you the 
+    whereabouts of Minister's huge cabin. You reached the minister's 
+    cabin and greeted him. Minister started the conversation with some casual 
+    talk. And then after a while, he gave you three choices regarding your 
+    upcoming future.
+
+    ► <next goto="7.xml">Work under the Security Minister and Serve the Almighty Alestrex</next>
+    ► <next goto="8.xml">Or, study further in an university and get a degree </next>
+</storyBlock>
