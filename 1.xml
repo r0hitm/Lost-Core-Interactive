@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <storyBlock name="1">
 
-    Suddenly you bump into a man wearing black Armour and carrying guns. He is 
-    one of Alestrex Security Force. And you realized that you are on the banned 
-    road of Central Alestrex. 
+    You reach the Central Alestrex by 10:00 am, and are walking towards the 
+    central tallest structure that is the pride of the Alestrex. It titled 
+    "The Core of Alestrex", however what the real name was of the structure 
+    is lost with the time. Suddenly you bump into a man wearing black Armour 
+    and carrying guns. He is one of Alestrex Security Force. Central Alestrex
+    is normally closed to normal citizens.
     
     “Hey kid, what are you doing here? It’s illegal to enter these areas w/o permission.” 
     yelled the guard. 
     You showed the guard your Permission card that you’ve received from the Security Minister. 
 
     “You are the lad who managed to pass HS. Very well then” 
-    He lets you pass. You walk straight down the road when it splits into three. 
+    He lets you pass. You walk straight down the road where it splits into three. 
 
     ► <next goto="2.xml">Go Straight</next>
     ► <next goto="3.xml">Go Left    </next>
