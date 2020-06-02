@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<storyBlock name="3">
-    You walk for about 30 minutes and come to a bend. The road further splits 
-    into two narrower roads going left and right.
-
-    ► <next goto="7.xml">Go Left</next>
-    ► <next goto="8.xml">Go Right</next>
-</storyBlock>
