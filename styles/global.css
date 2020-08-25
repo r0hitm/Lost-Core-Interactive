@@ -1,0 +1,16 @@
+/*/ Global level styling for all pages in the lost core /*/
+/*/ Author: Rohit Mehta /*/
+
+body {
+    margin: 10%;
+}
+
+div#main {
+    display: block;
+    position: relative;
+    border: 3px solid goldenrod;
+    border-radius: 50px;
+    padding: 30px;
+    font-size: 16pt;
+    
+}
